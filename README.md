@@ -1,2 +1,2 @@
-MyFirstRepo
+GitHub learning task
 
