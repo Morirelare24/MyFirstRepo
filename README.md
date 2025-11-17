@@ -1,2 +1,2 @@
-# MyFirstRepo
-Alx pathway task 0
+MyFirstRepo
+
